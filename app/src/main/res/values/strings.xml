@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip_Calculator</string>
+    <string name="alert">Alert!!</string>
+    <string name="message">Please Enter Billing Amount!!</string>
+    <string name="Okay">Okay!!</string>
+    <string name="cancel">Cancel</string>
+</resources>
